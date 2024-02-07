@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Nunito Sans 10pt Condensed';
+    src: url('NunitoSans10ptCondensed-Black.eot');
+    src: url('NunitoSans10ptCondensed-Black.eot?#iefix') format('embedded-opentype'),
+        url('NunitoSans10ptCondensed-Black.woff2') format('woff2'),
+        url('NunitoSans10ptCondensed-Black.woff') format('woff'),
+        url('NunitoSans10ptCondensed-Black.ttf') format('truetype'),
+        url('NunitoSans10ptCondensed-Black.svg#NunitoSans10ptCondensed-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
